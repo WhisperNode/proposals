@@ -1,5 +1,5 @@
 {
-    "title": "Adjustment of BlocksPerYear",
+    "title": "Param Change mint.BlocksPerYear: from  6311520 to 5303798",
     "description": "WhisperNode is proposing to adjust BlocksPerYear parameter to normalize the inflation rate and reward rate.\n\nFull details surrounding the calculations of actual vs. theoretical inflation can be found here:\nhttps://ipfs.io/ipfs/QmYeJXCsNpbpvWRWufJqgEC2XdSFzPGcQQdmU99gJJofop",
     "changes": [
       {
