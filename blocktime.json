@@ -1,0 +1,17 @@
+{
+    "title": "Adjustment of BlocksPerYear",
+    "description": "WhisperNode is proposing to adjust BlocksPerYear parameter to normalize the inflation rate and reward rate.\n\nFull details surrounding the calculations of actual vs. theoretical inflation can be found here:\nhttps://ipfs.io/ipfs/QmYeJXCsNpbpvWRWufJqgEC2XdSFzPGcQQdmU99gJJofop",
+    "changes": [
+      {
+        "subspace": "mint",
+        "key": "BlocksPerYear",
+        "value": "5303798"
+      }
+    ],
+    "deposit": [
+      {
+        "denom": "uscrt",
+        "amount": "1000000"
+      }
+    ]
+  }
